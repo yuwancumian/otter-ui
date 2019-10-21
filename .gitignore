@@ -1,6 +1,9 @@
 /node_modules/
 /bower_components/
 /spm_modules
+/dist
+/lib
+/es
 .gist
 *.sublime-project
 *.sublime-workspace

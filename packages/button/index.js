@@ -1,13 +1,14 @@
-'use strict';
+import React from 'react'
 
-import React, { Component } from 'react'
+// export default function(){
+//     return(
+//         <div>123</div>
+//     )
+// }
 
-export default class button extends Component {
-    render() {
-        return (
-            <div className="antz-button">
-                this is a button 
-            </div>
-        )
-    }
+function Button(){
+    return(
+        <div className="ant-button">Button111</div>
+    )
 }
+export default Button;
